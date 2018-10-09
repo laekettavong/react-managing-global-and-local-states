@@ -1,3 +1,8 @@
+# React-Managing-Global-And-Local-States
+Demonstration on how to use Redux to manage global application state and how to utilize component-based state for local UI data-binding/behavior.
+
+## 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
